@@ -4,6 +4,8 @@ Product recommendations based on image similarity using Tensorflow, Keras vgg16 
 ## Inspiration:
 Visual Similarity Product Recommendation system from Adobe Commerce - Adobe Sensei
 https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/admin/type.html?lang=en#visualsim
+<img width="1078" alt="image" src="https://github.com/GvsSriRam/visual-similarity-recommendations-model/assets/57980789/a1157bed-e384-4c7a-955a-6009165134aa">
+
 
 ## Work done:
 - Developed a POC of the product recommendation model used in the Industry
